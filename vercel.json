@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "buildCommand": "npm install --legacy-peer-deps && next build",
+  "installCommand": "npm install --legacy-peer-deps",
+  "framework": "nextjs",
+  "regions": ["fra1"],
+  "public": false
+}
